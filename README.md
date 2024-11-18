@@ -2,7 +2,6 @@
 
 Repositorio personal donde organizo mis apuntes sobre cursos de redes cisco, en principio con el objetivo de lograr obtener el certificado CCNA.
 
----
 # Capítulos
 
 1. [Redes informática. Conceptos básicos](./1-Redes-informática-Conceptos-básicos/README.md)
