@@ -4,7 +4,7 @@ Repositorio personal donde organizo mis apuntes sobre cursos de redes cisco, en 
 
 # Capítulos
 
-1. [Redes informática. Conceptos básicos](./1-Redes-informática-Conceptos-básicos/README.md)
+1. [Redes informática. Conceptos básicos](1-Redes-informáticas-Conceptos-básicos/README.md)
 2. Configuración de switches Cisco
 3. Spanning Tree Protocol
 4. Subnetting en IPv4
