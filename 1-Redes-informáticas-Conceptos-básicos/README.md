@@ -1,7 +1,7 @@
 # Índice
 
 1. [Introducción a las redes informáticas](./1.1-Introducción-a-las-redes-informáticas.md)
-2. Estándares de comunicación: TCP/IP y OSI
+2. [Estándares de comunicación: TCP/IP y OSI](1.2-Estándares-de-comunicación-TCP-IP-y-OSI.md)
 	1. Model TCP/IP
 	2. Modelo OSI
 	3. Comparación entre modelo OSI y TCP/IP
